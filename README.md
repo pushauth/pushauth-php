@@ -1,6 +1,6 @@
 # PushAuth php code
 PHP push authorization
-<<<<<<< HEAD
+
 
 =======
 [![Latest Stable Version](https://poser.pugx.org/pushauth/pushauth/v/stable)](https://packagist.org/packages/pushauth/pushauth)
@@ -178,4 +178,4 @@ Please see: https://dashboard.pushauth.io/support/api
 ### Support
 
 Please see: http://dashboard.pushauth.dev/support/request/create
->>>>>>> f0d23cf6900392e9b0298c994a6b08822f08f663
+
