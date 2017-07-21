@@ -1,5 +1,8 @@
-# pushauth-php
+# PushAuth php code
 PHP push authorization
+[![Latest Stable Version](https://poser.pugx.org/pushauth/pushauth/v/stable)](https://packagist.org/packages/pushauth/pushauth)
+[![Total Downloads](https://poser.pugx.org/pushauth/pushauth/downloads)](https://packagist.org/packages/pushauth/pushauth)
+[![License](https://poser.pugx.org/pushauth/pushauth/license)](https://packagist.org/packages/pushauth/pushauth)
 
 ### Requirements
 PHP 5.6 and later.
