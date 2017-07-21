@@ -1,0 +1,25 @@
+{
+    "name": "pushauth/pushauth",
+    "description": "A package for push authorization",
+    "keywords": ["push", "authorization"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "PushAuth",
+            "email": "info@pushauth.io"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.5.9",
+        "ext-curl": "*",
+        "ext-json": "*",
+        "ext-mbstring": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "PushAuth\\": "src"
+        }
+    }
+}
