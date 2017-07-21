@@ -175,9 +175,9 @@ if ($authRequest->isAccept() == Null) { //No answer from client }
                             
 ### Documentation
 
-Please see: https://dashboard.pushauth.io/support/api
+Please see: https://dashboard.pushauth.io/api/index.html
 
 ### Support
 
-Please see: http://dashboard.pushauth.dev/support/request/create
+Please see: http://dashboard.pushauth.io/support/request/create
 
